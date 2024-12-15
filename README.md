@@ -1,4 +1,6 @@
-<h1 align="center">✨ Welcome to My Animated World ✨</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=✨+Welcome+to+My+Animated+World+✨" alt="Welcome Animation" />
+</h1>
 
 <p align="center">Crafting code, creating art, and having fun along the way!</p>
 
@@ -8,7 +10,11 @@
 
 ---
 
-## 🚀 About Me
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=🚀+About+Me" alt="About Me Animation" />
+  </h2>
+</div>
 
 - 🌟 Passionate **Web Developer** with a love for clean code.
 - 🔥 Skilled in **React**, **JavaScript**, and **UI/UX Design**.
@@ -17,9 +23,10 @@
 
 ---
 
-## 📊 Dynamic Stats with Animation
-
 <div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=📊+Dynamic+Stats+with+Animation" alt="Dynamic Stats Animation" />
+  </h2>
   <img src="https://github-readme-stats.vercel.app/api?username=yasinkhoshbakht&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="200" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yasinkhoshbakht&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="200" alt="GitHub Streaks" />
@@ -27,10 +34,10 @@
 
 ---
 
-## 🌈 Animated Projects Showcase
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=🚀+Highlighted+Projects;🌟+Innovative+Solutions;💻+Collaborative+Code" alt="Typing SVG" />
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=🌈+Animated+Projects+Showcase" alt="Projects Animation" />
+  </h2>
 </div>
 
 <div align="center">
@@ -44,7 +51,11 @@
 
 ---
 
-## 🛠️ Animated Tech Stack
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=🛠️+Animated+Tech+Stack" alt="Tech Stack Animation" />
+  </h2>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="50" alt="HTML" />
@@ -56,7 +67,11 @@
 
 ---
 
-## 🐍 Snake Animation
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=🐍+Snake+Animation" alt="Snake Animation" />
+  </h2>
+</div>
 
 <div align="center">
   <img src="https://github.com/yasinkhoshbakht/yasinkhoshbakht/blob/output/snake.svg" alt="Snake animation" />
@@ -64,34 +79,33 @@
 
 ---
 
-## 🎧 Animated Music Stats
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=🎧+Spotify+Recently+Played" alt="Spotify Animation" />
+  </h2>
+</div>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/yasin_wolf">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yasin_wolf&count=3&width=500&theme=default" alt="Spotify Now Playing" />
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xlj2unaiimekozjymb4oqggsay&count=5&width=600&unique=true" alt="Spotify Recently Played" />
 </div>
 
 ---
 
-## 💡 Fun Animated Widgets
-
-### Animated Typing
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=36BCF7&center=true&vCenter=true&width=450&lines=🔧+Building+awesome+things;✨+Making+the+web+beautiful;🚀+Always+learning+new+skills" alt="Typing Animation" />
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6347&center=true&vCenter=true&width=600&lines=💬+Connect+With+Me" alt="Connect Animation" />
+  </h2>
 </div>
 
----
-
-### Bounce Icons Animation
-
 <div align="center">
-  <a href="https://linkedin.com/in/yasin-khoshbakht" target="_blank">
+  <a href="https://linkedin.com/in/yasin-wolf" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://twitter.com/yasin_khoshbakht" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+  <a href="https://instagram.com/sadbouy.7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+  <a href="https://discord.gg/jPUFM6eqWQ" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
   </a>
 </div>
 
