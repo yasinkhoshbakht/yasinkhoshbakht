@@ -1,0 +1,28 @@
+name: Generate Snake Animation
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 20 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: yasinkhoshbakht
+          svg_out_path: dist/snake.svg
+
+      - name: Push Snake Animation to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
