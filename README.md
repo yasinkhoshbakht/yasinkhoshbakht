@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=✨+Welcome+to+My+Animated+World+✨" alt="Welcome Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=✨+Welcome+to+My+Creative+World+✨" alt="Welcome Animation" />
 </h1>
 
 <p align="center">Crafting code, creating art, and having fun along the way!</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" height="300" alt="Welcome Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="300" alt="Programming Animation" />
 </div>
 
 ---
@@ -74,7 +74,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/yasinkhoshbakht/yasinkhoshbakht/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/yasinkhoshbakht/yasinkhoshbakht/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -86,7 +86,9 @@
 </div>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xlj2unaiimekozjymb4oqggsay&count=5&width=600&unique=true" alt="Spotify Recently Played" />
+  <a href="https://open.spotify.com/user/yasin_wolf">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yasin_wolf&count=5&unique=false" alt="Spotify recently played" />
+  </a>
 </div>
 
 ---
