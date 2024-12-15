@@ -36,7 +36,7 @@
 
 <div align="center">
   <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=🛠️+Animated+Tech+Stack" alt="Tech Stack Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=🛠️+Tech+Stack" alt="Tech Stack Animation" />
   </h2>
 </div>
 
